@@ -2,4 +2,5 @@ title: Tantowi Mustofa
 description: Talk Less Commit More
 theme: jekyll-theme-cayman
 github:
+  is_project_page: true
   repository_url: https://github.com/tantowi
